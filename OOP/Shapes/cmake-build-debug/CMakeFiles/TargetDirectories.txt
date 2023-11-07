@@ -1,0 +1,3 @@
+D:/My Innventions/OOP/Shapes/cmake-build-debug/CMakeFiles/Shapes.dir
+D:/My Innventions/OOP/Shapes/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/My Innventions/OOP/Shapes/cmake-build-debug/CMakeFiles/rebuild_cache.dir
